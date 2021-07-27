@@ -69,7 +69,7 @@ body {
    background-size: contain;
    background-repeat: no-repeat;
    height: 247px;
-   width: 100vw;
+   width: 100%;
 }
 /* end of image-section */
 /* content-section */
@@ -99,7 +99,7 @@ body {
 }
 /* form  */
 .form {
-    margin: 1rem 0;
+    margin: 1rem 0 5rem;
     position: relative;
 }
 .form input {
