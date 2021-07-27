@@ -53,7 +53,7 @@ table {
 } 
 /* css reset end */
 body {
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .container{
     display: flex;
@@ -99,7 +99,7 @@ body {
 }
 /* form  */
 .form {
-    margin: 1rem 0 5rem;
+    margin: 1rem 0 2rem;
     position: relative;
 }
 .form input {
